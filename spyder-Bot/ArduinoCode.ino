@@ -1,5 +1,5 @@
 /*
-*Author : MADHWESH ANAND
+*Author : RISHAV RAJ
  */ 
 
 #include<Servo.h>
